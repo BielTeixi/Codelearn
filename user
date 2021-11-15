@@ -1,0 +1,3 @@
+git config -–global user.name “Codelearn”
+git config --global user.email bielteixi2@gmail.com
+git config --list
